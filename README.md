@@ -1,3 +1,9 @@
+A few edits to the blind chess repo from https://github.com/rabidmachine9/blind-chess.git/.
+
+The original README is below.
+
+---
+
 This is a small blind chess app made with python, first thing you need to do is download [Stockfish engine](https://stockfishchess.org/)
 Place it somewhere in your computer and add the path in this line of the script
 ```python
